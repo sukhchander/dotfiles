@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WindowList</key>
+	<array>
+		<dict>
+			<key>Origin</key>
+			<string>{1507, 1416}</string>
+			<key>ShowsTabBar</key>
+			<false/>
+			<key>ShowsTabBarInFullScreen</key>
+			<false/>
+			<key>Window Settings</key>
+			<array>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>107</integer>
+					<key>Tab Row Count</key>
+					<integer>62</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>92460272-4D27-4000-A94E-20ED7EE9C2E7</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>BackgroundColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NPEBwxIDAu
+						OTUwNTAyNjQ2OCAwLjgxOTU5Njc5
+						OTEAEAGAAtIQERITWiRjbGFzc25h
+						bWVYJGNsYXNzZXNXTlNDb2xvcqIS
+						FFhOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEXGFRyb290gAEIERoj
+						LTI3O0FITltigYOFipWepqmyxMfM
+						AAAAAAAAAQEAAAAAAAAAGQAAAAAA
+						AAAAAAAAAAAAAM4=
+						</data>
+						<key>Bell</key>
+						<false/>
+						<key>EastAsianAmbiguousWide</key>
+						<true/>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QVk5TU2l6ZVhO
+						U2ZGbGFnc1ZOU05hbWVWJGNsYXNz
+						I0AyAAAAAAAAEBCAAoADXU1lbmxv
+						LVJlZ3VsYXLSExQVFlokY2xhc3Nu
+						YW1lWCRjbGFzc2VzVk5TRm9udKIV
+						F1hOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEaG1Ryb290gAEIERoj
+						LTI3PEJLUltiaXJ0dniGi5afpqmy
+						xMfMAAAAAAAAAQEAAAAAAAAAHAAA
+						AAAAAAAAAAAAAAAAAM4=
+						</data>
+						<key>FontAntialias</key>
+						<true/>
+						<key>FontWidthSpacing</key>
+						<real>1.004032258064516</real>
+						<key>ProfileCurrentVersion</key>
+						<real>2.02</real>
+						<key>ShouldLimitScrollback</key>
+						<integer>1</integer>
+						<key>ShowActiveProcessInTitle</key>
+						<false/>
+						<key>ShowCommandKeyInTitle</key>
+						<true/>
+						<key>ShowDimensionsInTitle</key>
+						<false/>
+						<key>VisualBell</key>
+						<true/>
+						<key>name</key>
+						<string>Basic</string>
+						<key>shellExitAction</key>
+						<integer>1</integer>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Basic</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://sukhchanders-iMac.local/Users/sukhchander/</string>
+					<key>TabSelected</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>107</integer>
+					<key>Tab Row Count</key>
+					<integer>62</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>3A8F4519-02B6-4B1F-B0EE-E8017A5AA60C</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>BackgroundColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NPEBwxIDAu
+						OTUwNTAyNjQ2OCAwLjgxOTU5Njc5
+						OTEAEAGAAtIQERITWiRjbGFzc25h
+						bWVYJGNsYXNzZXNXTlNDb2xvcqIS
+						FFhOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEXGFRyb290gAEIERoj
+						LTI3O0FITltigYOFipWepqmyxMfM
+						AAAAAAAAAQEAAAAAAAAAGQAAAAAA
+						AAAAAAAAAAAAAM4=
+						</data>
+						<key>Bell</key>
+						<false/>
+						<key>EastAsianAmbiguousWide</key>
+						<true/>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QVk5TU2l6ZVhO
+						U2ZGbGFnc1ZOU05hbWVWJGNsYXNz
+						I0AyAAAAAAAAEBCAAoADXU1lbmxv
+						LVJlZ3VsYXLSExQVFlokY2xhc3Nu
+						YW1lWCRjbGFzc2VzVk5TRm9udKIV
+						F1hOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEaG1Ryb290gAEIERoj
+						LTI3PEJLUltiaXJ0dniGi5afpqmy
+						xMfMAAAAAAAAAQEAAAAAAAAAHAAA
+						AAAAAAAAAAAAAAAAAM4=
+						</data>
+						<key>FontAntialias</key>
+						<true/>
+						<key>FontWidthSpacing</key>
+						<real>1.004032258064516</real>
+						<key>ProfileCurrentVersion</key>
+						<real>2.02</real>
+						<key>ShouldLimitScrollback</key>
+						<integer>1</integer>
+						<key>ShowActiveProcessInTitle</key>
+						<false/>
+						<key>ShowCommandKeyInTitle</key>
+						<true/>
+						<key>ShowDimensionsInTitle</key>
+						<false/>
+						<key>VisualBell</key>
+						<true/>
+						<key>name</key>
+						<string>Basic</string>
+						<key>shellExitAction</key>
+						<integer>1</integer>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Basic</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://sukhchanders-iMac.local/Users/sukhchander/</string>
+					<key>TabSelected</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>107</integer>
+					<key>Tab Row Count</key>
+					<integer>62</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>5C2D9F5A-7314-475B-98F6-E527929A022C</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>BackgroundColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NPEBwxIDAu
+						OTUwNTAyNjQ2OCAwLjgxOTU5Njc5
+						OTEAEAGAAtIQERITWiRjbGFzc25h
+						bWVYJGNsYXNzZXNXTlNDb2xvcqIS
+						FFhOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEXGFRyb290gAEIERoj
+						LTI3O0FITltigYOFipWepqmyxMfM
+						AAAAAAAAAQEAAAAAAAAAGQAAAAAA
+						AAAAAAAAAAAAAM4=
+						</data>
+						<key>Bell</key>
+						<false/>
+						<key>EastAsianAmbiguousWide</key>
+						<true/>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QVk5TU2l6ZVhO
+						U2ZGbGFnc1ZOU05hbWVWJGNsYXNz
+						I0AyAAAAAAAAEBCAAoADXU1lbmxv
+						LVJlZ3VsYXLSExQVFlokY2xhc3Nu
+						YW1lWCRjbGFzc2VzVk5TRm9udKIV
+						F1hOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEaG1Ryb290gAEIERoj
+						LTI3PEJLUltiaXJ0dniGi5afpqmy
+						xMfMAAAAAAAAAQEAAAAAAAAAHAAA
+						AAAAAAAAAAAAAAAAAM4=
+						</data>
+						<key>FontAntialias</key>
+						<true/>
+						<key>FontWidthSpacing</key>
+						<real>1.004032258064516</real>
+						<key>ProfileCurrentVersion</key>
+						<real>2.02</real>
+						<key>ShouldLimitScrollback</key>
+						<integer>1</integer>
+						<key>ShowActiveProcessInTitle</key>
+						<false/>
+						<key>ShowCommandKeyInTitle</key>
+						<true/>
+						<key>ShowDimensionsInTitle</key>
+						<false/>
+						<key>VisualBell</key>
+						<true/>
+						<key>name</key>
+						<string>Basic</string>
+						<key>shellExitAction</key>
+						<integer>1</integer>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Basic</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://sukhchanders-iMac.local/Users/sukhchander/</string>
+					<key>TabSelected</key>
+					<false/>
+				</dict>
+				<dict>
+					<key>Tab Column Count</key>
+					<integer>94</integer>
+					<key>Tab Row Count</key>
+					<integer>62</integer>
+					<key>Tab Scrollback Restorable</key>
+					<true/>
+					<key>Tab Session Class ID</key>
+					<string>A13D68CE-4846-401A-A13A-8340789959F7</string>
+					<key>Tab Settings</key>
+					<dict>
+						<key>BackgroundColor</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGFRZYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKMHCA9VJG51
+						bGzTCQoLDA0OVU5TUkdCXE5TQ29s
+						b3JTcGFjZVYkY2xhc3NPEBwxIDAu
+						OTUwNTAyNjQ2OCAwLjgxOTU5Njc5
+						OTEAEAGAAtIQERITWiRjbGFzc25h
+						bWVYJGNsYXNzZXNXTlNDb2xvcqIS
+						FFhOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEXGFRyb290gAEIERoj
+						LTI3O0FITltigYOFipWepqmyxMfM
+						AAAAAAAAAQEAAAAAAAAAGQAAAAAA
+						AAAAAAAAAAAAAM4=
+						</data>
+						<key>Bell</key>
+						<false/>
+						<key>EastAsianAmbiguousWide</key>
+						<true/>
+						<key>Font</key>
+						<data>
+						YnBsaXN0MDDUAQIDBAUGGBlYJHZl
+						cnNpb25YJG9iamVjdHNZJGFyY2hp
+						dmVyVCR0b3ASAAGGoKQHCBESVSRu
+						dWxs1AkKCwwNDg8QVk5TU2l6ZVhO
+						U2ZGbGFnc1ZOU05hbWVWJGNsYXNz
+						I0AyAAAAAAAAEBCAAoADXU1lbmxv
+						LVJlZ3VsYXLSExQVFlokY2xhc3Nu
+						YW1lWCRjbGFzc2VzVk5TRm9udKIV
+						F1hOU09iamVjdF8QD05TS2V5ZWRB
+						cmNoaXZlctEaG1Ryb290gAEIERoj
+						LTI3PEJLUltiaXJ0dniGi5afpqmy
+						xMfMAAAAAAAAAQEAAAAAAAAAHAAA
+						AAAAAAAAAAAAAAAAAM4=
+						</data>
+						<key>FontAntialias</key>
+						<true/>
+						<key>FontWidthSpacing</key>
+						<real>1.004032258064516</real>
+						<key>ProfileCurrentVersion</key>
+						<real>2.02</real>
+						<key>ShouldLimitScrollback</key>
+						<integer>1</integer>
+						<key>ShowActiveProcessInTitle</key>
+						<false/>
+						<key>ShowCommandKeyInTitle</key>
+						<true/>
+						<key>ShowDimensionsInTitle</key>
+						<false/>
+						<key>VisualBell</key>
+						<true/>
+						<key>name</key>
+						<string>Basic</string>
+						<key>shellExitAction</key>
+						<integer>1</integer>
+						<key>type</key>
+						<string>Window Settings</string>
+					</dict>
+					<key>Tab Settings Name</key>
+					<string>Basic</string>
+					<key>Tab Working Directory URL</key>
+					<string>file://sukhchanders-iMac.local/Users/sukhchander/</string>
+					<key>TabSelected</key>
+					<true/>
+				</dict>
+			</array>
+			<key>WindowNumber</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>name</key>
+	<string>4-large</string>
+	<key>type</key>
+	<string>Window Group</string>
+</dict>
+</plist>
